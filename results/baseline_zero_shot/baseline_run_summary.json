@@ -1,0 +1,22 @@
+{
+  "total_rows": 162,
+  "predicted_rows": 162,
+  "skipped_rows": 0,
+  "opencv_rescued_rows": 42,
+  "prompts": {
+    "non_anemia": [
+      "normal healthy conjunctiva",
+      "no conjunctival pallor",
+      "no evidence of anemia",
+      "normal conjunctival appearance",
+      "conjunctiva without pallor"
+    ],
+    "anemia": [
+      "conjunctival pallor indicative of anemia",
+      "pale conjunctiva suggestive of anemia",
+      "there is conjunctival pallor",
+      "findings consistent with anemia",
+      "anemic conjunctival appearance"
+    ]
+  }
+}

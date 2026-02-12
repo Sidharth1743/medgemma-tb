@@ -1,0 +1,784 @@
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/31/20200213_152924_forniceal.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/31/20200213_152924_forniceal.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/31/20200213_152924_forniceal.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/31/20200213_152924_forniceal_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/31/20200213_152924_forniceal_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/31/20200213_152924_forniceal_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/31/20200213_152924_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/31/20200213_152924_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/31/20200213_152924_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/34/20200213_154759_forniceal.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/34/20200213_154759_forniceal.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/34/20200213_154759_forniceal.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/34/20200213_154759_forniceal_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/34/20200213_154759_forniceal_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/34/20200213_154759_forniceal_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/34/20200213_154759_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/34/20200213_154759_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/34/20200213_154759_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/37/20200214_123002_forniceal.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/37/20200214_123002_forniceal.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/37/20200214_123002_forniceal.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/37/20200214_123002_forniceal_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/37/20200214_123002_forniceal_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/37/20200214_123002_forniceal_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/37/20200214_123002_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/37/20200214_123002_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/37/20200214_123002_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/40/20200214_121836_forniceal.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/40/20200214_121836_forniceal.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/40/20200214_121836_forniceal.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/40/20200214_121836_forniceal_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/40/20200214_121836_forniceal_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/40/20200214_121836_forniceal_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/40/20200214_121836_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/40/20200214_121836_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/40/20200214_121836_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/43/20200216_210631_forniceal.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/43/20200216_210631_forniceal.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/43/20200216_210631_forniceal.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/43/20200216_210631_forniceal_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/43/20200216_210631_forniceal_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/43/20200216_210631_forniceal_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/43/20200216_210631_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/43/20200216_210631_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/43/20200216_210631_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/46/20200216_231923_forniceal.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/46/20200216_231923_forniceal.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/46/20200216_231923_forniceal.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/46/20200216_231923_forniceal_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/46/20200216_231923_forniceal_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/46/20200216_231923_forniceal_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/46/20200216_231923_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/46/20200216_231923_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/46/20200216_231923_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/49/20200217_152107_forniceal.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/49/20200217_152107_forniceal.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/49/20200217_152107_forniceal.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/49/20200217_152107_forniceal_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/49/20200217_152107_forniceal_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/49/20200217_152107_forniceal_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/49/20200217_152107_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/49/20200217_152107_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/49/20200217_152107_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/52/20200218_221400_forniceal.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/52/20200218_221400_forniceal.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/52/20200218_221400_forniceal.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/52/20200218_221400_forniceal_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/52/20200218_221400_forniceal_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/52/20200218_221400_forniceal_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/52/20200218_221400_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/52/20200218_221400_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/52/20200218_221400_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/55/20200219_180148_forniceal.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/55/20200219_180148_forniceal.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/55/20200219_180148_forniceal.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/55/20200219_180148_forniceal_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/55/20200219_180148_forniceal_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/55/20200219_180148_forniceal_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/55/20200219_180148_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/55/20200219_180148_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/55/20200219_180148_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/58/20200219_195511_forniceal.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/58/20200219_195511_forniceal.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/58/20200219_195511_forniceal.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/58/20200219_195511_forniceal_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/58/20200219_195511_forniceal_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/58/20200219_195511_forniceal_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/58/20200219_195511_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/58/20200219_195511_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/58/20200219_195511_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/61/20200223_185602_forniceal.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/61/20200223_185602_forniceal.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/61/20200223_185602_forniceal.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/61/20200223_185602_forniceal_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/61/20200223_185602_forniceal_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/61/20200223_185602_forniceal_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/61/20200223_185602_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/61/20200223_185602_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/61/20200223_185602_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/64/20200223_191620_forniceal.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/64/20200223_191620_forniceal.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/64/20200223_191620_forniceal.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/64/20200223_191620_forniceal_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/64/20200223_191620_forniceal_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/64/20200223_191620_forniceal_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/64/20200223_191620_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/64/20200223_191620_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/64/20200223_191620_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/7/20200124_202058_forniceal.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/7/20200124_202058_forniceal.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/7/20200124_202058_forniceal.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/7/20200124_202058_forniceal_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/7/20200124_202058_forniceal_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/7/20200124_202058_forniceal_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/7/20200124_202058_papebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/7/20200124_202058_papebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/7/20200124_202058_papebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/70/20200224_123714_forniceal.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/70/20200224_123714_forniceal.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/70/20200224_123714_forniceal.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/70/20200224_123714_forniceal_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/70/20200224_123714_forniceal_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/70/20200224_123714_forniceal_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/70/20200224_123714_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/70/20200224_123714_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/70/20200224_123714_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/76/20200224_150539_forniceal.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/76/20200224_150539_forniceal.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/76/20200224_150539_forniceal.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/76/20200224_150539_forniceal_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/76/20200224_150539_forniceal_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/76/20200224_150539_forniceal_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/76/20200224_150539_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/76/20200224_150539_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/76/20200224_150539_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/82/20200228_190334_forniceal.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/82/20200228_190334_forniceal.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/82/20200228_190334_forniceal.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/82/20200228_190334_forniceal_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/82/20200228_190334_forniceal_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/82/20200228_190334_forniceal_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/82/20200228_190334_palpebral.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/82/20200228_190334_palpebral.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/82/20200228_190334_palpebral.png'
+
+================================================================================
+path: /home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/91/20200302_231050_forniceal.png
+stage: open
+error_type: UnidentifiedImageError
+error_message: PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/91/20200302_231050_forniceal.png'
+traceback:
+Traceback (most recent call last):
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 78, in run_step
+    fn()
+  File "/home/sidharth/Desktop/MedGemma/src/image_checking.py", line 110, in step_open
+    with Image.open(path) as img:
+         ^^^^^^^^^^^^^^^^
+  File "/home/sidharth/Desktop/MedGemma/.venv/lib/python3.12/site-packages/PIL/Image.py", line 3579, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file '/home/sidharth/Desktop/MedGemma/Dataset/dataset anemia/India/Anemia/91/20200302_231050_forniceal.png'
+

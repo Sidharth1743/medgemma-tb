@@ -1,0 +1,29 @@
+{
+  "accuracy": 0.5987654320987654,
+  "precision": 0.556390977443609,
+  "recall": 0.925,
+  "f1": 0.6948356807511737,
+  "roc_auc": 0.6528963414634146,
+  "confusion_matrix": [
+    [
+      23,
+      59
+    ],
+    [
+      6,
+      74
+    ]
+  ],
+  "train_images": {
+    "total": 700,
+    "used": 700,
+    "skipped": 0,
+    "opencv_rescued": 145
+  },
+  "test_images": {
+    "total": 162,
+    "used": 162,
+    "skipped": 0,
+    "opencv_rescued": 42
+  }
+}
