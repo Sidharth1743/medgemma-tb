@@ -8,4 +8,4 @@ wheels/
 
 # Virtual environments
 .venv
-src/__pycache__
+src/__pycache__model.safetensors
