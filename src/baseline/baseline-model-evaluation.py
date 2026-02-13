@@ -3,10 +3,21 @@ from __future__ import annotations
 import argparse
 import csv
 import json
+import sys
 from pathlib import Path
 from typing import Any
 
 import numpy as np
+
+SRC_ROOT = Path(__file__).resolve().parents[1]
+if str(SRC_ROOT) not in sys.path:
+    sys.path.insert(0, str(SRC_ROOT))
+
+from helpers.plotting import (
+    save_confusion_matrix_png,
+    save_roc_curve_png,
+    save_score_histogram_png,
+)
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
@@ -122,6 +133,17 @@ def main() -> None:
 
     metrics_path = output_dir / "baseline_metrics.json"
     metrics_path.write_text(json.dumps(metrics, indent=2), encoding="utf-8")
+    cm_plot = output_dir / "baseline_confusion_matrix.png"
+    roc_plot = output_dir / "baseline_roc_curve.png"
+    hist_plot = output_dir / "baseline_score_histogram.png"
+    save_confusion_matrix_png(metrics["confusion_matrix"], cm_plot, title="Zero-Shot Baseline Confusion Matrix")
+    save_roc_curve_png(y_true, y_prob, roc_plot, title="Zero-Shot Baseline ROC Curve")
+    save_score_histogram_png(
+        y_true,
+        y_prob,
+        hist_plot,
+        title="Zero-Shot Baseline Predicted Probability Histogram",
+    )
 
     print("Baseline metrics:")
     print(f"  num_examples: {metrics['num_examples']}")
@@ -132,6 +154,7 @@ def main() -> None:
     print(f"  f1: {metrics['f1']:.6f}")
     print(f"  confusion_matrix: {metrics['confusion_matrix']}")
     print(f"Saved metrics: {metrics_path}")
+    print(f"Saved plots: {cm_plot}, {roc_plot}, {hist_plot}")
 
 
 if __name__ == "__main__":
