@@ -1,0 +1,1161 @@
+image_path,label
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-129_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_581.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-160_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-227_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-130_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-218 - Copy_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-052_aug18.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-090_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-044_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-239_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-121_aug4.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-139_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-108_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-004_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-186_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-080_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-134_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-054_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_326.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-006_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-018_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-188_aug7.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-168_aug17.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-126_aug20.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-117_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-006_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-150_aug17.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-096_aug5.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-065_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_76/T_45_20190611_090821_palpebral.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-109_aug23.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-105_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-211_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-059_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-003_aug18.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_442.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-126_aug22.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-015_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-127_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-135_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-142_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-036_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-050_aug4.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-057_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-177_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Non-anemic/Image_576.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-219 - Copy_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/india_51/20200218_210419_forniceal.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-005_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-114_aug19.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-054_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-105_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-176_aug17.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-009png_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-097_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-118_aug22.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-130_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-Conj-016_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-034_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-122_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-037_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-036_aug5.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/italy_105/T_74_20190613_090639_forniceal_palpebral.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-098_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-067_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/india_64/20200223_191620_forniceal_palpebral.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-127_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-047_aug20.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-122_aug20.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-167_aug22.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-136_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-N-004_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_45/T_14_20190607_083121_forniceal.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-086_aug7.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-074_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-083_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-246_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-121_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-100_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-200_aug5.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-036_aug7.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-121_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/india_48/20200217_141804_forniceal.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-211_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-001_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-189_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-117_aug17.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-239_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-213 - Copy_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-214_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-111_aug4.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-Conj-N-0036_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-027_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-249_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-126_aug10.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-022_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-159_aug20.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/india_33/20200213_154129_forniceal_palpebral.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-137_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-014_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-036_aug1.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-063_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-148_aug22.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_010.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-160_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-anemic-Con-012_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_49/T_18_20190608_081326_palpebral.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-040_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-220_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-172_aug20.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-032_aug14.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-206_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-258_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-214 - Copy_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-033_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-190_aug10.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-271_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-050_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-045_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-147_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-029_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-137_aug20.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_97/T_66_20190613_075959_palpebral.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-117_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-002_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-167_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-026_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-164_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-044_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-258_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-027_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-168_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-025_aug19.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-224_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-anemic-Con-012_aug18.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-065_aug10.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-022_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-183_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-Conj-006_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-057_aug18.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-006_aug12.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-022_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-116_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-120_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-030_aug13.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-235_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-062_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-022_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-007_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-035_aug17.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-011_aug12.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_81/T_50_20190612_080012_forniceal.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-205_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_89/T_58_20190612_090128_forniceal_palpebral.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-025_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-088_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_599.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-004_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-019_aug13.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-172_aug4.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-172_aug14.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-042_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-167_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-037_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-250_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-201 - Copy_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-066_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-001_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-272_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Non-anemic/Image_307.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-050_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-268_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-195_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-201_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-031_aug17.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-028_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-084_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-216_aug13.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-anemic-Con-014_aug7.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-007_aug5.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-178_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-041_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-151_aug1.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_66/T_35_20190610_084118_forniceal_palpebral.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-030_aug20.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-105_aug19.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-179_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-049_aug23.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-206_aug13.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-115_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-118_aug1.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-099_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-106_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-157_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-anemic-Con-002_aug18.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Non-anemic/Image_312.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-271_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-035_aug13.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-035_aug21.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-182_aug17.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-083_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-017_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-055_aug5.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-027_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-062_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-064_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-138_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-102_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/india_60/20200223_184734_palpebral.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-115_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-063_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-210_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-019_aug21.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-Conj-023_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-074_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_226.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-154_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_113/T_82_20190614_080327_forniceal.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-192_aug15.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-017_aug21.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-193_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-174_aug7.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-247_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-166_aug18.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-224_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-263_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-187_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-234_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-111_aug18.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-164_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-118_aug4.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-089_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-040_aug17.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-047_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-116_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-198_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-079_aug23.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-N-0036_aug13.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-004_aug13.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_569.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-092_aug13.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-054_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/italy_29/029_palpebral.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-005_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-120_aug15.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-128_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-021_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-174_aug23.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-154_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-011_aug19.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-056_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-132_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-022_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-111_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-188_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-019_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-169_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-045_aug1.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-202_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-076_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-002_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-204_aug22.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-178_aug5.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-151_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-166_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_482.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-002_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-211 - Copy_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/india_66/20200224_114700_forniceal.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-235_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-004_aug7.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-191_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-006_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-007_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-254_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-165_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-158_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-203_aug23.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/italy_12/012_forniceal.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-208_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-039_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-031_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-088_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-124_aug1.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-234_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-135_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-215_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-N-002_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-149_aug5.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-063_aug21.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-264_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-118_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-189_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-070_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-138_aug17.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-260_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-097_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-191_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-150_aug10.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-217_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-100_aug12.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-085_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-193_aug20.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-032_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-212 - Copy_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-201_aug5.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-202_aug7.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_47/T_16_20190608_075548_palpebral.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-043_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/italy_12/012_forniceal_palpebral.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-126_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_52/T_21_20190608_083544_forniceal_palpebral.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-013_aug7.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-205 - Copy_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-208 - Copy_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-130_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-203_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-158_aug22.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-150_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-077_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-027_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-087_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/india_7/20200124_202058_forniceal_palpebral.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-116_aug20.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-186_aug14.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-160_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-169_aug5.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-099_aug12.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-042_aug19.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-157_aug20.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-137_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-203_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-197_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-185_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-172_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-098_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-162_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-136_aug21.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-038_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/india_51/20200218_210419_forniceal_palpebral.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-076_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/india_58/20200219_195511_forniceal.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-224_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-108_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-106_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-198_aug13.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-091_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-016_aug23.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-215 - Copy_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-209_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-135_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-050_aug19.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-057_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-Conj-005_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-182_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-097_aug14.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-071_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-N-001_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-N-0036_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-230_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-107_aug19.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-043_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-106_aug10.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-268_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-156_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-019_aug1.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-023_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-209_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-060_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-239_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_640.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-127_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-024_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-260_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-N-0044_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-044_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-203_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-209 - Copy_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-114_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_64/T_33_20190610_075938_palpebral.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-249_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-085_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/india_65/20200223_194457_forniceal_palpebral.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/india_13/20200203_190841_forniceal.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-064_aug5.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-113_aug1.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-098_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-192_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-089_aug22.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-027_aug1.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-124_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-051_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-120_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-026_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-120_aug12.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-105_aug13.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-144_aug23.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-180_aug14.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-045_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-053_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Non-anemic/Image_654.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-Conj-015_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-023_aug22.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-112_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-188_aug18.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-098_aug15.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-069_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-147_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Non-anemic/Image_210.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-216_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-051_aug19.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-245_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-022_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-217_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_446.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-057_aug20.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-N-0044_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-174_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-207_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-211 - Copy_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-080_aug13.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-Conj-N-0044_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-109_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-145_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-068_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_95/T_64_20190612_092742_forniceal_palplebral.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-101_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_77/T_46_20190611_091248_forniceal.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_103/T_72_20190613_083940_palpebral.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-156_aug13.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-218_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-019_aug22.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-211_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-025_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-079_aug13.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-anemic-Con-018_aug23.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-176_aug10.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-008_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-212_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-180_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-042_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-N-0032_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-079_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_62/T_31_20190608_113406_forniceal_palpebral.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-010_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-132_aug10.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-054_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-149_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-259_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-205 - Copy_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-069_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Non-anemic/Image_453.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-086_aug22.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-N-0033_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-051_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-093_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-004_aug4.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_602.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-207_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-128_aug1.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-155_aug19.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-129_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-207 - Copy_aug13.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-157_aug22.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-013_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-169_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-002_aug7.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-245_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-002_aug23.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-039_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-203_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-040_aug14.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-210_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-012_aug15.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-003_aug13.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-043_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-271_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-083_aug14.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-047_aug1.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-046_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-077_aug13.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-116_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-115_aug15.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-073_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-N-002_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-171_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-072_aug17.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-131_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-203_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-026_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Non-anemic/Image_169.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-028_aug13.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-181_aug17.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-228_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-202_aug1.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-093_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-031_aug23.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-anemic-Con-002_aug12.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-015_aug13.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-183_aug12.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-233_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-051_aug10.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-182_aug10.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-018_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-130_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-022_aug17.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-079_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-173_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-005_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-123_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-097_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-159_aug15.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-002_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-088_aug13.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Non-anemic/Image_205.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-026_aug18.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-014_aug1.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-232_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-206_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-Conj-018_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-172_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-136_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-012_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-011_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-177_aug17.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-154_aug23.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-202_aug14.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-063_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-038_aug1.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-148_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-004_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-061_aug20.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Non-anemic/Image_321.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-032_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-206 - Copy_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-025_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-024_aug13.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-177_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-020_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-106_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-104_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-089_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-051_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-221_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-118_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-023_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-145_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_73/T_42_20190611_082701_forniceal.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-041_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-081_aug5.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-236_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-070_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-008_aug13.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-068_aug7.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-148_aug19.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-128_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-133_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_67/T_36_20190610_084456_forniceal.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-170_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-079_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-259_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-109_aug22.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_238.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-027_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-068_aug22.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-127_aug12.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_044.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-095_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-012_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-166_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-136_aug5.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-088_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-013_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-050_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-018_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-063_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-209_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Non-anemic/Image_178.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-133_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-180_aug1.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-070_aug10.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-014_aug21.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-095_aug4.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/india_88/20200302_223503_forniceal_palpebral.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_368.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-169_aug19.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_628.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-151_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-N-0036_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-104_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Non-anemic/Image_550.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-054_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-087_aug5.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-065_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-165_aug18.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-001FV_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-252_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/india_14/20200204_154215_forniceal.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-188_aug10.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-174_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-012_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-056_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-117_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-060_aug12.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-165_aug21.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-091_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-200_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-196_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-146_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-218 - Copy_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-226_aug13.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_022.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-Conj-018_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_501.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-041_aug1.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-002_aug1.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-004_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-129_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-228_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/india_45/20200216_224452_palpebral.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-113_aug12.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-084_aug13.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-158_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-004_aug17.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-002_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-099_aug4.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-192_aug12.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-076_aug14.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-011 - Copy_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-026_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-092_aug23.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Non-anemic/Image_449.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-220 - Copy_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-175_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-033_aug10.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-109_aug17.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-168_aug19.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-156_aug18.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-anemic-Con-008_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-048_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-159_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-226_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-263_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-087_aug18.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-102_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-051_aug14.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-055_aug20.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-088_aug10.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-159_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-151_aug22.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-189_aug22.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-010_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-N-002_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-034_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-031_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-236_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-195_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-124_aug15.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-247_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-223_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_16/016_forniceal.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/india_10/20200203_091841_palpebral.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/india_6/20200124_184029_forniceal_palpebral.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-102_aug5.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-003_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-006_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-144_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-094_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-102_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-072_aug23.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Non-anemic/Image_440.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-249_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-238_aug13.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-174_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-229_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-045_aug15.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-172_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-100_aug7.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-126_aug7.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-N-0033_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-013_aug1.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-083_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-086_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-001_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-166_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-079_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-168_aug13.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-065_aug15.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-016_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-010_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-126_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-095_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-123_aug18.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_660.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-167_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-224 - Copy_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-048_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-095_aug12.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-215_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-190_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Non-anemic/Image_450.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-102_aug18.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-N-00141_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-259_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-059_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-099_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-N-002_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-148_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-218 - Copy_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-Conj-N-004_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-133_aug10.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-116_aug4.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_72/T_41_20190611_082501_forniceal.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-117_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-160_aug13.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-007_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-184_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-065_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-241_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-Conj-N-001_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-270_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-150_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-186_aug12.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-234_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_55/T_24_20190608_091157_forniceal_palpebral.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-050_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-004_aug15.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-200 - Copy_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-074_aug19.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-173_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-029_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-216 - Copy_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-156_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-054_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-117_aug18.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-020_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Non-anemic/Image_538.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-022_aug1.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-031_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-208_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-003_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-127_aug15.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-184_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_358.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-059_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-026_aug22.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-007_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-236_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-111_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-165_aug22.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-156_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-203 - Copy_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-126_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-201_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-188_aug14.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-012_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-111_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-084_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-255_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-031_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-015_aug15.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-Conj-001_aug13.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-242_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-055_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-137_aug7.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-156_aug22.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-120_aug5.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-186_aug23.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Non-anemic/Image_215.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-099_aug23.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-170_aug10.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_412.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-009_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-058_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-018_aug4.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-138_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-194_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-159_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-102_aug10.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-129_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/india_3/20200124_155418_forniceal_palpebral.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-163_aug10.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-027_aug14.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-124_aug13.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-003_aug5.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-167_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-060_aug17.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-041_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-129_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-010_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-105_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-008_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-159_aug19.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-168_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-031_aug13.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-169_aug10.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-028_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-215_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_338.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-112_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-114_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-189_aug1.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-001_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-162_aug23.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-anemic-Con-006_aug23.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-171_aug20.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-034_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-012_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-120_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-160_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-099_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-026_aug10.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-079_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-115_aug21.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-123_aug13.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-001FV_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-220_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-001_aug23.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/india_22/20200211_150240_forniceal.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-018_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-069_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-217 - Copy_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Non-anemic/Image_189.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-178_aug21.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-120_aug4.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_82/T_51_20190612_080714_forniceal_palpebral.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-132_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-011_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-019_aug17.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_614.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-019_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-161_aug18.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-126_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-145_aug19.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-259_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-056_aug14.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-136_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-077_aug10.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-037_aug13.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-202_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-213_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_6/006_forniceal.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/india_94/20200318_130148_palpebral.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-048_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-204_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-157_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-107_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-206 - Copy_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-142_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-213_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-003_aug4.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-171_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-112_aug13.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_536.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Non-anemic/Image_701.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/india_67/20200224_115146_forniceal_palpebral.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-024_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/india_36/20200213_160045_palpebral.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-267_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-222_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-151_aug15.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-053_aug12.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-145_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-106_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-130_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-218 - Copy_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-079_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-009png_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-029_aug4.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-164_aug4.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-220_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-251_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-213 - Copy_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-005_aug7.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-N-004_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-099_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-002_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/india_49/20200217_152107_forniceal.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-250_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-141_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-166_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-219_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-071_aug18.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-098_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-012_aug20.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-004_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-104_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-204_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_631.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-040_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-195_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-052_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/india_42/20200216_211040_forniceal.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-186_aug7.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-024_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-010_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-137_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-223 - Copy_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-158_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-Conj-028_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-057_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-199_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-anemic-Con-001_aug13.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-020_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-251_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-111_aug10.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-031_aug20.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-074_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-065_aug7.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-018_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Non-anemic/Image_688.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-204_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-128_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_37/T_6_20190607_074640_forniceal.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/india_55/20200219_180148_forniceal_palpebral.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-168_aug15.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-033_aug14.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-145png_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-204 - Copy_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/india_67/20200224_115146_forniceal.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-202 - Copy_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_199.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-031_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_62/T_31_20190608_113406_forniceal.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-187_aug19.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/india_81/20200228_190130_forniceal_palpebral.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-023_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-059_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_243.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-005_aug20.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-155_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-186_aug15.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-205_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_94/T_63_20190612_092329_palpebral.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-109_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-Conj-008_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-118_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-108_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-184_aug7.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_132.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-044_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-263_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-129_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-170_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_140.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-253_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-004_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-259_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-163_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-anemic-Con-004_aug1.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-115_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-003_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Non-anemic/Image_014.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-272_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-166_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-024_aug23.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-228_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-037_aug19.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-145_aug18.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-206_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-Conj-030_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-106_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-218 - Copy_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-056_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-122_aug15.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-054_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-160_aug19.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-082_aug13.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-187_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-187_aug1.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-201 - Copy_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-169_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-039_aug13.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-233_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_35/T_4_20190606_095326_palpebral.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-169_aug7.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-125_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-104_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-150_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-193_aug1.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-155_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-212_aug1.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_669.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-129_aug13.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-154_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-003_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-216_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-080_aug18.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-144_aug19.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-156_aug13.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-128_aug7.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-214_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-178_aug19.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-089_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-258_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-095_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-200_aug12.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-093_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-040_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-189_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-270_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-157_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-006_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-135_aug1.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-057_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-079_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-121_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-012_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-070_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-005_aug22.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-161_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-265_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-223 - Copy_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-142_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-028_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-257_aug13.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-231_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-106_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-153_aug21.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-195_aug12.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-037_aug14.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-057_aug19.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-149_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-009_aug18.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-029_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-111_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-212 - Copy_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-036_aug20.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-138_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-114_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-091_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-009_aug12.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-068_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-170_aug19.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-058_aug4.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-148_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-168_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-135_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Non-anemic/Image_100.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-159_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-Conj-026_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-132_aug5.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_547.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-anemic-Con-003_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-071_aug14.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-059_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_127.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-085_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-152_aug7.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-012_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-174_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-136_aug14.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-140_aug14.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-196_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-167_aug18.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-059_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-104_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/italy_72/T_41_20190611_082501_forniceal_palpebral.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-159_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-007_aug4.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-255_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-223_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-032_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-218_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-081_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-130_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-057_aug23.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-008_aug12.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-105_aug22.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-001_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-185_aug23.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_636.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-165_aug17.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_560.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-133_aug14.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-045_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-204 - Copy_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-002_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-131_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-036_aug2.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-200_aug7.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-137_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Non-anemic/Image_061.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-123_aug12.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-197_aug5.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-183_aug5.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_295.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_274.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Non-anemic/Image_422.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-009_aug15.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-012_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-166_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-001_aug3.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-161_aug14.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-056_aug12.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-196_aug22.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-173_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-257_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Anemic/Image_285.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-164_aug19.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/italy_24/024_forniceal_palpebral.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-091_aug19.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-221 - Copy_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-156_aug6.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-Conj-031_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-138_aug20.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-148_aug17.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-198_aug20.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-011 - Copy_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-049_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-252_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-155_aug21.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-028_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-146_aug21.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/india_6/20200124_184029_palpebral.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-015_aug21.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-121_aug13.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-184_aug9.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-034_aug5.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-076_aug15.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Anemic/Anemic-133_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Anemic/Anemic-101_aug10.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/india_72/20200224_143301_palpebral.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-151_aug13.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-070_aug7.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/CP-AnemiC dataset/Non-anemic/Image_217.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-135_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-140_aug11.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-119_aug17.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-243_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Non-Anemia/india_39/20200213_232040_forniceal.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-202_aug15.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-217_aug4.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-244_aug9.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-012_aug4.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-088_aug11.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-023_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-110_aug14.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-205_aug8.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-064_aug1.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-121_aug5.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-018_aug7.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-062_aug21.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-098_aug15.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-201_aug12.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-081_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-004_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-142_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Testing/Non-Anemic/Non-Anemic-086_aug14.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-051_aug6.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-anemic-Con-014_aug22.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/dataset anemia/Anemia/india_77/20200224_151450_forniceal_palpebral.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-082_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-026_aug7.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Non-Anemic/Non-Anemic-201_aug8.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-N-0012_aug2.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-Conj-023_aug16.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Validation/Non-Anemic/Non-Anemic-047_aug16.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-117_aug3.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Conjuctiva/Training/Anemic/Anemic-093_aug11.png,1

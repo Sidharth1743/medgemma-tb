@@ -12,7 +12,11 @@ import numpy as np
 import torch
 from PIL import Image
 from PIL import ImageDraw
-from transformers import AutoProcessor, SiglipVisionModel
+from transformers import SiglipVisionModel
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import log_loss
+import joblib
+import tensorflow as tf
 
 from helpers.plotting import (
     save_confusion_matrix_png,
@@ -119,6 +123,11 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Do not write local artifacts/plots/metrics (W&B only).",
     )
+    parser.add_argument(
+        "--save-local",
+        action="store_true",
+        help="Force local artifacts even when W&B is enabled.",
+    )
     return parser.parse_args()
 
 
@@ -185,11 +194,84 @@ def load_batch_images(paths: list[Path]) -> tuple[list[Image.Image], list[int], 
     return imgs, kept_indices, rescued_with_opencv
 
 
+def preprocess_images(
+    imgs: list[Image.Image],
+    device: str,
+    dtype: torch.dtype,
+) -> torch.Tensor:
+    processed: list[torch.Tensor] = []
+    for img in imgs:
+        img = img.convert("RGB")
+        np_img = np.asarray(img, dtype=np.uint8)
+        tf_img = tf.convert_to_tensor(np_img)
+        tf_img = tf.image.resize(
+            tf_img,
+            [448, 448],
+            method="bilinear",
+            antialias=False,
+        )
+        tf_img = tf.cast(tf_img, tf.float32) / 255.0
+        tf_img = tf_img * 2.0 - 1.0
+        tensor = torch.from_numpy(tf_img.numpy()).permute(2, 0, 1)
+        processed.append(tensor)
+    batch = torch.stack(processed, dim=0).to(device=device, dtype=dtype)
+    return batch
+
+
+def _load_image_for_viz(path: Path) -> Image.Image | None:
+    if not path.exists():
+        return None
+    try:
+        return Image.open(path).convert("RGB")
+    except Exception:
+        cv_img = cv2.imread(str(path), cv2.IMREAD_UNCHANGED)
+        if cv_img is None:
+            return None
+        if cv_img.dtype == np.uint16:
+            cv_img = ((cv_img.astype(np.float32) / 65535.0) * 255.0).clip(
+                0, 255
+            ).astype(np.uint8)
+        elif cv_img.dtype != np.uint8:
+            cv_img = cv2.normalize(cv_img, None, 0, 255, cv2.NORM_MINMAX).astype(
+                np.uint8
+            )
+        if cv_img.ndim == 2:
+            cv_img = cv2.cvtColor(cv_img, cv2.COLOR_GRAY2RGB)
+        elif cv_img.shape[2] == 4:
+            cv_img = cv2.cvtColor(cv_img, cv2.COLOR_BGRA2RGB)
+        else:
+            cv_img = cv2.cvtColor(cv_img, cv2.COLOR_BGR2RGB)
+        return Image.fromarray(cv_img)
+
+
+def _make_tf_viz_images(img: Image.Image) -> dict[str, Image.Image]:
+    rgb = img.convert("RGB")
+    np_img = np.asarray(rgb, dtype=np.uint8)
+    tf_img = tf.convert_to_tensor(np_img)
+    tf_resized = tf.image.resize(
+        tf_img,
+        [448, 448],
+        method="bilinear",
+        antialias=False,
+    )
+    tf_float = tf.cast(tf_resized, tf.float32) / 255.0
+    tf_norm = tf_float * 2.0 - 1.0
+    resized = Image.fromarray(tf_resized.numpy().astype(np.uint8))
+    norm_vis = ((tf_norm + 1.0) / 2.0 * 255.0).numpy().clip(0, 255).astype(np.uint8)
+    normalized = Image.fromarray(norm_vis)
+    return {
+        "original": img,
+        "rgb": rgb,
+        "resized_448": resized,
+        "normalized": normalized,
+    }
+
+
 def extract_embeddings(
     rows: list[tuple[Path, int]],
-    processor: AutoProcessor,
     model: SiglipVisionModel,
     device: str,
+    dtype: torch.dtype,
     batch_size: int,
 ) -> tuple[np.ndarray, np.ndarray, list[Path], list[Path], int]:
     all_embeddings: list[np.ndarray] = []
@@ -212,9 +294,9 @@ def extract_embeddings(
             continue
         kept_labels.extend([batch_labels[j] for j in kept_idx])
         kept_paths.extend([batch_paths[j] for j in kept_idx])
-        inputs = processor(images=imgs, return_tensors="pt").to(device)
+        pixel_values = preprocess_images(imgs, device, dtype)
         with torch.no_grad():
-            outputs = model(**inputs)
+            outputs = model(pixel_values=pixel_values)
         embeddings = outputs.pooler_output
         embeddings = embeddings / embeddings.norm(p=2, dim=-1, keepdim=True)
         all_embeddings.append(embeddings.float().cpu().numpy())
@@ -296,6 +378,36 @@ def binary_roc_auc(y_true: np.ndarray, y_score: np.ndarray) -> float:
     return float(np.trapezoid(tpr, fpr))
 
 
+def roc_threshold_stats(
+    y_true: np.ndarray, y_score: np.ndarray
+) -> dict[str, Any]:
+    n_pos = int((y_true == 1).sum())
+    n_neg = int((y_true == 0).sum())
+    if n_pos == 0 or n_neg == 0:
+        return {
+            "best_threshold": 0.5,
+            "best_tpr": float("nan"),
+            "best_fpr": float("nan"),
+            "best_j": float("nan"),
+        }
+    order = np.argsort(-y_score)
+    y_sorted = y_true[order]
+    scores_sorted = y_score[order]
+    tp = np.cumsum(y_sorted == 1)
+    fp = np.cumsum(y_sorted == 0)
+    tpr = tp / n_pos
+    fpr = fp / n_neg
+    j = tpr - fpr
+    best_idx = int(np.argmax(j))
+    best_thresh = float(scores_sorted[best_idx])
+    return {
+        "best_threshold": best_thresh,
+        "best_tpr": float(tpr[best_idx]),
+        "best_fpr": float(fpr[best_idx]),
+        "best_j": float(j[best_idx]),
+    }
+
+
 def compute_metrics(y_true: np.ndarray, y_prob: np.ndarray) -> dict[str, Any]:
     y_pred = (y_prob >= 0.5).astype(np.int64)
     cm = binary_confusion_matrix(y_true, y_pred)
@@ -320,6 +432,42 @@ def compute_metrics(y_true: np.ndarray, y_prob: np.ndarray) -> dict[str, Any]:
         "confusion_matrix": cm,
     }
     return metrics
+
+
+def compute_metrics_at_threshold(
+    y_true: np.ndarray, y_prob: np.ndarray, threshold: float
+) -> dict[str, Any]:
+    y_pred = (y_prob >= threshold).astype(np.int64)
+    cm = binary_confusion_matrix(y_true, y_pred)
+    tn, fp = cm[0]
+    fn, tp = cm[1]
+    total = tn + fp + fn + tp
+    accuracy = (tn + tp) / total if total > 0 else 0.0
+    precision = tp / (tp + fp) if (tp + fp) > 0 else 0.0
+    recall = tp / (tp + fn) if (tp + fn) > 0 else 0.0
+    f1 = (
+        2 * precision * recall / (precision + recall)
+        if (precision + recall) > 0
+        else 0.0
+    )
+    return {
+        "threshold": float(threshold),
+        "accuracy": float(accuracy),
+        "precision": float(precision),
+        "recall": float(recall),
+        "f1": float(f1),
+        "confusion_matrix": cm,
+    }
+
+
+def threshold_sweep(
+    y_true: np.ndarray, y_prob: np.ndarray, steps: int = 101
+) -> list[dict[str, Any]]:
+    rows: list[dict[str, Any]] = []
+    for i in range(steps):
+        t = i / (steps - 1)
+        rows.append(compute_metrics_at_threshold(y_true, y_prob, t))
+    return rows
 
 
 def _init_wandb(args: argparse.Namespace, run_id: str) -> Any | None:
@@ -431,56 +579,43 @@ def _roc_curve_image(y_true: np.ndarray, y_score: np.ndarray, title: str) -> Ima
     return img
 
 
-def fit_torch_logistic_probe(
+def fit_sklearn_logistic_probe(
     x_train: np.ndarray,
     y_train: np.ndarray,
     epochs: int,
     lr: float,
     weight_decay: float,
     log_fn: Any | None = None,
-) -> tuple[dict[str, np.ndarray], torch.nn.Module]:
+) -> tuple[dict[str, np.ndarray], LogisticRegression]:
     mean = x_train.mean(axis=0, keepdims=True)
     std = x_train.std(axis=0, keepdims=True)
     std = np.where(std < 1e-6, 1.0, std)
     x_train_std = (x_train - mean) / std
 
-    x = torch.from_numpy(x_train_std).float().to("cpu")
-    y = torch.from_numpy(y_train.astype(np.float32)).unsqueeze(1).to("cpu")
-
-    n_pos = float((y_train == 1).sum())
-    n_neg = float((y_train == 0).sum())
-    pos_weight_val = (n_neg / n_pos) if n_pos > 0 else 1.0
-
-    model = torch.nn.Linear(x.shape[1], 1).to("cpu")
-    criterion = torch.nn.BCEWithLogitsLoss(
-        pos_weight=torch.tensor([pos_weight_val], dtype=torch.float32)
+    c_val = 1.0 / max(float(weight_decay), 1e-12)
+    model = LogisticRegression(
+        solver="saga",
+        penalty="l2",
+        C=c_val,
+        max_iter=max(int(epochs), 100),
+        class_weight="balanced",
+        n_jobs=-1,
     )
-    optimizer = torch.optim.AdamW(model.parameters(), lr=lr, weight_decay=weight_decay)
-
-    model.train()
-    for epoch in range(1, epochs + 1):
-        optimizer.zero_grad()
-        logits = model(x)
-        loss = criterion(logits, y)
-        loss.backward()
-        optimizer.step()
-        if log_fn is not None:
-            log_fn({"train/loss": float(loss.item()), "epoch": epoch})
-        if epoch == 1 or epoch % 100 == 0 or epoch == epochs:
-            print(f"Linear probe epoch {epoch}/{epochs} loss={loss.item():.6f}")
+    model.fit(x_train_std, y_train)
+    if log_fn is not None:
+        probs = model.predict_proba(x_train_std)[:, 1]
+        loss = log_loss(y_train, probs, labels=[0, 1])
+        log_fn({"train/log_loss": float(loss), "epoch": int(epochs)})
 
     scaler = {"mean": mean.astype(np.float32), "std": std.astype(np.float32)}
     return scaler, model
 
 
-def predict_prob_torch(
-    x_input: np.ndarray, scaler: dict[str, np.ndarray], model: torch.nn.Module
+def predict_prob_sklearn(
+    x_input: np.ndarray, scaler: dict[str, np.ndarray], model: LogisticRegression
 ) -> np.ndarray:
-    model.eval()
     x_std = (x_input - scaler["mean"]) / scaler["std"]
-    x = torch.from_numpy(x_std).float().to("cpu")
-    with torch.no_grad():
-        probs = torch.sigmoid(model(x)).squeeze(1).cpu().numpy()
+    probs = model.predict_proba(x_std)[:, 1]
     return probs.astype(np.float32)
 
 
@@ -577,6 +712,8 @@ def main() -> None:
     test_csv = resolve_path(args.test_csv)
     model_dir = resolve_path(args.model_dir)
     output_dir = resolve_path(args.output_dir)
+    if args.wandb and not args.save_local:
+        args.no_local_save = True
     if args.run_name:
         run_id = str(args.run_name).strip()
     else:
@@ -596,17 +733,16 @@ def main() -> None:
     dtype = torch.float16 if device.startswith("cuda") else torch.float32
     print(f"Using device={device}, dtype={dtype}, model_dir={model_dir}")
 
-    processor = AutoProcessor.from_pretrained(model_dir)
     vision_model = SiglipVisionModel.from_pretrained(model_dir, dtype=dtype).to(device)
     vision_model.eval()
 
     print("Extracting train embeddings...")
     x_train, y_train, train_paths_kept, train_paths_skipped, train_rescued = extract_embeddings(
-        train_rows, processor, vision_model, device, args.batch_size
+        train_rows, vision_model, device, dtype, args.batch_size
     )
     print("Extracting test embeddings...")
     x_test, y_test, test_paths_kept, test_paths_skipped, test_rescued = extract_embeddings(
-        test_rows, processor, vision_model, device, args.batch_size
+        test_rows, vision_model, device, dtype, args.batch_size
     )
     if args.no_local_save:
         train_counts = split_counts(train_rows, train_paths_kept, train_paths_skipped)
@@ -630,7 +766,7 @@ def main() -> None:
     if len(np.unique(y_test)) < 2:
         raise RuntimeError("Test split has only one class after filtering; metrics are invalid.")
 
-    scaler, probe = fit_torch_logistic_probe(
+    scaler, probe = fit_sklearn_logistic_probe(
         x_train,
         y_train,
         epochs=args.epochs,
@@ -638,15 +774,21 @@ def main() -> None:
         weight_decay=args.weight_decay,
         log_fn=wandb_run.log if wandb_run is not None else None,
     )
-    y_prob = predict_prob_torch(x_test, scaler, probe)
+    y_prob = predict_prob_sklearn(x_test, scaler, probe)
     metrics = compute_metrics(y_test, y_prob)
+    roc_stats = roc_threshold_stats(y_test, y_prob)
+    metrics["roc_threshold"] = roc_stats
+    best_metrics = compute_metrics_at_threshold(
+        y_test, y_prob, roc_stats["best_threshold"]
+    )
+    metrics["roc_threshold"]["metrics_at_best"] = best_metrics
     metrics["train_images"] = train_counts
     metrics["test_images"] = test_counts
     metrics["train_images"]["opencv_rescued"] = int(train_rescued)
     metrics["test_images"]["opencv_rescued"] = int(test_rescued)
 
-    weights = probe.weight.detach().cpu().numpy().reshape(-1)
-    bias = float(probe.bias.detach().cpu().item())
+    weights = probe.coef_.reshape(-1).astype(np.float32)
+    bias = float(probe.intercept_[0])
     probe_summary = summarize_probe_parameters(weights, bias, top_k=12)
     if not args.no_local_save:
         metrics_path = run_dir / "metrics.json"
@@ -670,7 +812,7 @@ def main() -> None:
             scaler_mean=scaler["mean"],
             scaler_std=scaler["std"],
         )
-        torch.save(probe.state_dict(), run_dir / "linear_probe.pt")
+        joblib.dump(probe, run_dir / "linear_probe.joblib")
 
         cm_plot = run_dir / "confusion_matrix.png"
         roc_plot = run_dir / "roc_curve.png"
@@ -710,10 +852,20 @@ def main() -> None:
                 "metrics/recall": metrics["recall"],
                 "metrics/f1": metrics["f1"],
                 "metrics/roc_auc": metrics["roc_auc"],
+                "metrics/confusion_matrix": metrics["confusion_matrix"],
+                "metrics/roc_best_threshold": roc_stats["best_threshold"],
+                "metrics/roc_best_j": roc_stats["best_j"],
+                "metrics/roc_best_tpr": roc_stats["best_tpr"],
+                "metrics/roc_best_fpr": roc_stats["best_fpr"],
+                "metrics/best_threshold_accuracy": best_metrics["accuracy"],
+                "metrics/best_threshold_precision": best_metrics["precision"],
+                "metrics/best_threshold_recall": best_metrics["recall"],
+                "metrics/best_threshold_f1": best_metrics["f1"],
                 "probe/bias": probe_summary["bias"],
                 "probe/weight_l2_norm": probe_summary["weight_l2_norm"],
                 "data/train_used": metrics["train_images"]["used"],
                 "data/test_used": metrics["test_images"]["used"],
+                "epoch": int(args.epochs),
             }
         )
         try:
@@ -744,6 +896,49 @@ def main() -> None:
                         "plots/top_weight_dimensions": wandb.Image(str(top_w_plot)),
                     }
                 )
+            cm_table = wandb.Table(
+                columns=["pred_0", "pred_1"],
+                data=metrics["confusion_matrix"],
+            )
+            wandb_run.log({"tables/confusion_matrix": cm_table})
+            sweep_rows = threshold_sweep(y_test, y_prob, steps=101)
+            sweep_table = wandb.Table(
+                columns=["threshold", "accuracy", "precision", "recall", "f1"],
+                data=[
+                    [
+                        r["threshold"],
+                        r["accuracy"],
+                        r["precision"],
+                        r["recall"],
+                        r["f1"],
+                    ]
+                    for r in sweep_rows
+                ],
+            )
+            wandb_run.log({"tables/threshold_sweep": sweep_table})
+        except Exception:
+            pass
+        try:
+            import wandb  # type: ignore
+
+            train_samples = train_paths_kept[:2]
+            test_samples = test_paths_kept[:2]
+            for path, split in (
+                [(p, "train") for p in train_samples]
+                + [(p, "test") for p in test_samples]
+            ):
+                img = _load_image_for_viz(path)
+                if img is None:
+                    continue
+                viz = _make_tf_viz_images(img)
+                wandb_run.log(
+                    {
+                        f"images/{split}_{path.name}_original": wandb.Image(viz["original"]),
+                        f"images/{split}_{path.name}_rgb": wandb.Image(viz["rgb"]),
+                        f"images/{split}_{path.name}_resized": wandb.Image(viz["resized_448"]),
+                        f"images/{split}_{path.name}_normalized": wandb.Image(viz["normalized"]),
+                    }
+                )
         except Exception:
             pass
         wandb_run.finish()
@@ -758,6 +953,7 @@ def main() -> None:
         print(f"Saved metrics: {metrics_path}")
         print(f"Saved probe parameter summary: {probe_summary_path}")
         print(f"Saved artifacts: {run_dir / 'artifacts.npz'}")
+        print(f"Saved sklearn probe: {run_dir / 'linear_probe.joblib'}")
         print(f"Saved plots: {cm_plot}, {roc_plot}, {hist_plot}, {top_w_plot}")
         print(f"Updated latest run marker: {latest_run_path}")
         print(f"Updated run history: {output_dir / 'run_history.csv'}")
